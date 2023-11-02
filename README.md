@@ -16,9 +16,10 @@ Wansati Hackathon is an initiative aimed at developing solutions focused on wome
 
 To install the project, follow these steps:
 
-1. Clone the repository locally.
-2. Install the necessary dependencies by running `yarn install`.
-3. Run the project using `yarn dev`.
+1. Fork the repository.
+2. Clone the repository locally.
+3. Install the necessary dependencies by running `yarn install`.
+4. Run the project using `yarn dev`.
 
 ## License
 
